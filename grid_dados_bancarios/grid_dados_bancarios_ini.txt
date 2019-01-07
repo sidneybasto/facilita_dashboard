@@ -1,0 +1,7 @@
+index.php
+facilita
+grid_dados_bancarios
+NAO
+cons
+grid_dados_bancarios
+LigMd5

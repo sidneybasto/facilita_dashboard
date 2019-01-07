@@ -1,0 +1,10 @@
+.scAppDivHeaderText { text-align: right }
+.scAppDivContentText { text-align: center }
+.scAppDivToolbar { text-align: center }
+.scAppDivToolbarInput { text-align: right }
+.scAppDivSelectFieldsEnabled { text-align: center }
+.scAppDivSelectFieldsDisabled { text-align: center }
+.scExportEmailLabelSent { text-align: center }
+.scGridFilterTagListItemClose:after { text-align: center }
+.scGridFilterTagClose:after { text-align: center }
+.scGridFilterTagListFilterLabelClose:after { text-align: center }

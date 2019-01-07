@@ -1,0 +1,64 @@
+.scAppDivMoldura { background-color: #ffffff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #D2D2D2; border-style: none; border-width: 1px 1px 1px 1px; padding: 0; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0; -moz-box-shadow: #000; box-shadow: 0px 2px 10px -2px; -webkit-box-shadow: #000; box-shadow: 0px 2px 10px -2px; box-shadow: #000; box-shadow: 0px 2px 10px -2px }
+#NM_Grid_Search .scAppDivMoldura { padding: 13px 20px !important }
+.scAppDivHeader { background-color: #f0ebc8; background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; border-color: #E0E6E3; border-style: none; border-width: 1px 0 1px 0; padding: 5px; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0 }
+.scAppDivHeaderText { font-family: Arial, sans-serif; font-size: 13px; color: #000000; font-weight: bold; text-decoration: none; vertical-align: middle }
+#NM_Grid_Search .scAppDivHeaderText { vertical-align: top }
+.SummaryBox > td #sc_id_summary_fields { border-color: #f0ebc8 }
+.SummaryBox > td { border-color: #f0ebc8 }
+.SummaryBox > td .scAppDivHeader { background-color: #f0ebc8 }
+.GroupByOptions > div label span { color: #000000 }
+.SummaryBox > td .scAppDivHeader:before { background-image: url(../../img/scriptcase__NM__btn__NM__scriptcase8_citrine__NM__tree_mais.png) }
+.SummaryBox > td .scAppDivHeader.open:before { background-image: url(../../img/scriptcase__NM__btn__NM__scriptcase8_citrine__NM__tree_menos.png) }
+#sc_id_free_groupby > td { padding-top: 10px }
+.scAppDivContent { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #DADADA; border-style: none; border-width: 1px; padding: 0; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0; font-size: 13px }
+.scAppDivContentText { font-family: Arial, sans-serif; font-size: 13px; color: #000; font-style: css_appdiv_header_text_style; text-decoration: none; vertical-align: middle }
+.scAppDivToolbar { font-family: Arial, sans-serif; font-size: 13px; color: #000000; font-style: normal; text-decoration: none; vertical-align: middle; background-color: #FFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: none; border-width: 0; padding: 5px; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0 }
+.scAppDivToolbarInput { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #8F9F97; border-style: solid; border-width: 1px; color: #333333; font-family: Arial, sans-serif; font-size: 13px; padding: 4px 4px; text-decoration: none; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0; box-sizing: border-box }
+.scAppDivtoolbarinputfocus:focus { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #8F9F97; color: #333333 }
+.scAppDivToolbarInput label { background-color: #FFFFFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #8F9F97; color: #333333 }
+.scAppDivSelectFields { background-color: #FFFFFF; background-image: none; border-color: #000; border-style: dashed; border-width: 1px; padding: 1px 2px; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0 }
+.scAppDivSelectFieldsEnabled { background-color: #FAF7D6; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #CCC #F2FCF7#CCC #F2FCF7; border-style: solid; border-width: 0; color: #4D4D4D; font-family: Arial, sans-serif; font-size: 12px; padding: 2px 4px !important; margin: 2px !important; text-decoration: none; vertical-align: middle; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0 }
+.scAppDivSelectFieldsDisabled { background-color: #E8E4E4; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #B4B4B4; border-style: solid; border-width: 0; color: #CBCBCB; font-family: Arial, sans-serif; font-size: 13px; padding: 2px 4px !important; margin: 2px !important; text-decoration: none; vertical-align: middle; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0 }
+.scAppDivSelectBoxEnabled { background-color: #BDBA73; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #E6D772; border-style: solid; border-width: 1px; color: #000000; font-family: Arial, sans-serif; font-size: 13px; padding: 4px; text-decoration: none; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0 }
+.scAppDivSelectBoxDisabled { background-color: #FFF7DF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #DCD5A8; border-style: solid; border-width: 1px; color: #000000; font-family: Arial, sans-serif; font-size: 13px; padding: 4px; text-decoration: none; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0 }
+.scAppDivSelectFieldsPlaceholder { background-color: #FFFBEE; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #E6D772; border-style: dashed; border-width: 1px; padding: 6px; margin: 4px; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0 }
+.scAppDivTabLine { background-color: #fff; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D5D082; border-style: solid; border-width: 0 0 3px 0; width: 100%; margin: 0; padding: 3px 0 0; list-style-type: none }
+.scExportEmailTable { background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: none; border-collapse: collapse; padding: 10px }
+.scExportEmailDiv { background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: none; border-collapse: collapse; padding: 10px 20px }
+.scExportEmailLabel { text-decoration: none }
+.scExportEmailLabelSent { text-decoration: none }
+.scExportEmailInput { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #ccc; border-style: solid; border-width: 1px; padding: 6px 10px; margin: 4px; text-decoration: none; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; width: calc(100% - 22px) }
+.scGridFilterTag { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #CCC #F2FCF7#CCC #F2FCF7; border-style: solid; border-width: 0 0 1px 0; border-collapse: collapse; padding: 6px 20px !important; margin: 0; display: flex }
+#NM_Grid_Search .scGridFilterTag { padding: 6px 20px !important }
+#NM_Grid_Search #id_Fgrid_search { margin: 0 }
+.scGridFilterTagIconExp { padding: 0; margin: 0; vertical-align: top }
+.scGridFilterTagIconCol { padding: 0; margin: 8px 0 0 0 }
+.scGridFilterTagIcon { background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 0; margin: 4px 0; box-sizing: border-box; display: flex }
+.scGridFilterTagIcon svg { width: 22px; height: 22px; fill: #000 }
+.scGridFilterTagList { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse; padding: 0 10px; flex: 1; box-sizing: border-box }
+.scGridFilterTagListItem { background-color: #FAF7D6; background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #CCC #F2FCF7#CCC #F2FCF7; border-style: solid; border-width: 0; padding: 5px 5px 3px 12px; margin: 3px 0 2px 0; -moz-border-radius: 12px; -webkit-border-radius: 12px; border-radius: 12px; display: inline-block }
+.scGridFilterTagListItemLabel { color: #4D4D4D; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scGridFilterTagListItemClose { background-color: #ffffff; background-image: none; opacity: 0.5; filter: alpha(opacity=50); margin: -1px 0 1px 10px; display: inline-block; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; width: 17px; height: 17px; float: right; cursor: pointer }
+.scGridFilterTagListItemClose:after { color: #000; font-size: 17px; font-weight: bold; text-decoration: none; content: '\00d7'; width: 100%; display: block; line-height: 18px; }
+.scGridFilterTagListItemClose:hover { background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scGridFilterTagClose { background-image: none; opacity: 0.35; filter: alpha(opacity=35); padding: 0; margin: 4px 0 0 10px; box-sizing: border-box; display: inline-block; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; width: 28px; height: 28px; float: right; cursor: pointer }
+.scGridFilterTagClose:after { color: #000; font-size: 27px; text-decoration: none; content: '\00d7'; width: 100%; display: block; line-height: 28px; }
+.scGridFilterTagClose:hover { background-image: none; opacity: 0.6; filter: alpha(opacity=60) }
+.scGridFilterTagListFilter { background-color: #fff; background-image: none; background-position: absolute; opacity: 1; filter: alpha(opacity=100); border-color: #E0E6ED; border-style: solid; border-width: 1px; border-collapse: collapse; padding: 0; margin: 10px 0 0 0; box-shadow: 0 2px 4px #c3c3c3; border-radius: 0px; -moz-border-radius: 0; -webkit-border-radius: 0; position: absolute; z-index: 1 }
+.scGridFilterTagListFilterLabel { background-color: #FAF7D6; background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 5px 10px 5px 10px; -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0; color: #4D4D4D; font-size: 13px; text-decoration: none }
+.scGridFilterTagListFilterLabelClose { background-color: #ffffff; background-image: none; opacity: 0.5; filter: alpha(opacity=50); margin: 0 0 0 10px; display: inline-block; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; width: 17px; height: 17px; float: right; cursor: pointer }
+.scGridFilterTagListFilterLabelClose:after { color: #000; font-size: 17px; font-weight: bold; text-decoration: none; content: '\00d7'; width: 100%; display: block; line-height: 18px; }
+.scGridFilterTagListFilterLabelClose:hover { background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scGridFilterTagListFilterInputs { background-color: #F9F9F9; background-image: none; opacity: 1; filter: alpha(opacity=100); padding: 5px 10px 5px 10px; text-decoration: none }
+.scGridFilterTagListFilterBar { background-color: #FFF; background-image: none; opacity: 1; filter: alpha(opacity=100); border-style: none; border-width: 0; border-collapse: collapse; padding: 5px 10px 5px 10px; text-align: right }
+.scGridFilterTagAdd { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #CCC #F2FCF7#CCC #F2FCF7; border-style: solid; border-width: 1px; padding: 5px 10px 5px 22px; margin: 0 3px; -moz-border-radius: 25px; -webkit-border-radius: 25px; border-radius: 25px; color: #000; font-size: 13px; text-decoration: none; cursor: pointer; display: inline-block; position: relative; top: 1px }
+.scGridFilterTagAddDisabled { background-image: none; opacity: 1; filter: alpha(opacity=100); color: #d2d2d2; text-decoration: none; cursor: default }
+#id_Fgrid_search .scGridFilterTagAdd:hover { background-color: #FAF7D6 }
+#id_Fgrid_search .scGridFilterTagAddDisabled:hover { background-color: transparent }
+#id_Fgrid_search .scGridFilterTagAdd > div { left: 0px; top: 29px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; verflow: hidden }
+#id_Fgrid_search .scGridFilterTagAdd > div table { border-collapse: collapse }
+#id_Fgrid_search .scGridFilterTagAdd:after { content: '\00d7'; color: #000; font-size: 17px; font-weight: bold; display: inline-block; position: absolute; left: 8px; top: 3px; transform: rotate(45deg) }
+#id_Fgrid_search .scGridFilterTagAddDisabled:after { color: #d2d2d2 }
+#id_grid_search_add_tag { color: black }
+.scGridFilterTagAdd .scBtnGrpText { font-size: 13px }
+.scGridFilterTagSave { background-image: none; opacity: ; filter: alpha(opacity=); border-width: 0; padding: 0; margin: 6px 0 0 0; box-sizing: border-box; float: right }

@@ -1,0 +1,14 @@
+.css_id_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_grid_line {vertical-align: top;text-align: right;}
+.css_email_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_email_grid_line {vertical-align: top;text-align: left;}
+.css_cpf_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_cpf_grid_line {vertical-align: top;text-align: left;}
+.css_status_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_status_grid_line {vertical-align: top;text-align: right;}
+.css_created_at_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_created_at_grid_line {vertical-align: top;text-align: center;}
+.css_password_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_password_grid_line {vertical-align: top;text-align: left;}
+.css_permissao_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_permissao_grid_line {vertical-align: top;text-align: left;}

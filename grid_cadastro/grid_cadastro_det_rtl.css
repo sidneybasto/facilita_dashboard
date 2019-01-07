@@ -1,0 +1,98 @@
+.css_id_det_label {text-align: right;vertical-align: middle;}
+.css_id_det_line {height:0px;text-align: right;}
+.css_nome_completo_det_label {text-align: right;vertical-align: middle;}
+.css_nome_completo_det_line {height:0px;text-align: right;}
+.css_email_det_label {text-align: right;vertical-align: middle;}
+.css_email_det_line {height:0px;text-align: right;}
+.css_dt_nasc_det_label {text-align: right;vertical-align: middle;}
+.css_dt_nasc_det_line {height:0px;text-align: right;}
+.css_nat_ocup_det_label {text-align: right;vertical-align: middle;}
+.css_nat_ocup_det_line {height:0px;text-align: right;}
+.css_sexo_det_label {text-align: right;vertical-align: middle;}
+.css_sexo_det_line {height:0px;text-align: right;}
+.css_nacionalidade_det_label {text-align: right;vertical-align: middle;}
+.css_nacionalidade_det_line {height:0px;text-align: right;}
+.css_cidade_det_label {text-align: right;vertical-align: middle;}
+.css_cidade_det_line {height:0px;text-align: right;}
+.css_uf_nasc_det_label {text-align: right;vertical-align: middle;}
+.css_uf_nasc_det_line {height:0px;text-align: right;}
+.css_tp_doc_det_label {text-align: right;vertical-align: middle;}
+.css_tp_doc_det_line {height:0px;text-align: right;}
+.css_nr_doc_det_label {text-align: right;vertical-align: middle;}
+.css_nr_doc_det_line {height:0px;text-align: right;}
+.css_emissor_det_label {text-align: right;vertical-align: middle;}
+.css_emissor_det_line {height:0px;text-align: right;}
+.css_nome_mae_det_label {text-align: right;vertical-align: middle;}
+.css_nome_mae_det_line {height:0px;text-align: right;}
+.css_grau_instr_det_label {text-align: right;vertical-align: middle;}
+.css_grau_instr_det_line {height:0px;text-align: right;}
+.css_nome_conj_det_label {text-align: right;vertical-align: middle;}
+.css_nome_conj_det_line {height:0px;text-align: right;}
+.css_cpf_conj_det_label {text-align: right;vertical-align: middle;}
+.css_cpf_conj_det_line {height:0px;text-align: right;}
+.css_dt_nasc_conj_det_label {text-align: right;vertical-align: middle;}
+.css_dt_nasc_conj_det_line {height:0px;text-align: right;}
+.css_sexo_conj_det_label {text-align: right;vertical-align: middle;}
+.css_sexo_conj_det_line {height:0px;text-align: right;}
+.css_cep_res_det_label {text-align: right;vertical-align: middle;}
+.css_cep_res_det_line {height:0px;text-align: right;}
+.css_end_res_det_label {text-align: right;vertical-align: middle;}
+.css_end_res_det_line {height:0px;text-align: right;}
+.css_num_res_det_label {text-align: right;vertical-align: middle;}
+.css_num_res_det_line {height:0px;text-align: right;}
+.css_compl_res_det_label {text-align: right;vertical-align: middle;}
+.css_compl_res_det_line {height:0px;text-align: right;}
+.css_bairro_res_det_label {text-align: right;vertical-align: middle;}
+.css_bairro_res_det_line {height:0px;text-align: right;}
+.css_cidade_res_det_label {text-align: right;vertical-align: middle;}
+.css_cidade_res_det_line {height:0px;text-align: right;}
+.css_uf_res_det_label {text-align: right;vertical-align: middle;}
+.css_uf_res_det_line {height:0px;text-align: right;}
+.css_tipo_res_det_label {text-align: right;vertical-align: middle;}
+.css_tipo_res_det_line {height:0px;text-align: right;}
+.css_tel_fixo_det_label {text-align: right;vertical-align: middle;}
+.css_tel_fixo_det_line {height:0px;text-align: right;}
+.css_tel_cel_det_label {text-align: right;vertical-align: middle;}
+.css_tel_cel_det_line {height:0px;text-align: right;}
+.css_pb_exposta_det_label {text-align: right;vertical-align: middle;}
+.css_pb_exposta_det_line {height:0px;text-align: right;}
+.css_operador_det_label {text-align: right;vertical-align: middle;}
+.css_operador_det_line {height:0px;text-align: right;}
+.css_salario_det_label {text-align: right;vertical-align: middle;}
+.css_salario_det_line {height:0px;text-align: right;}
+.css_ocupacao_det_label {text-align: right;vertical-align: middle;}
+.css_ocupacao_det_line {height:0px;text-align: right;}
+.css_escolaridade_det_label {text-align: right;vertical-align: middle;}
+.css_escolaridade_det_line {height:0px;text-align: right;}
+.css_profissao_det_label {text-align: right;vertical-align: middle;}
+.css_profissao_det_line {height:0px;text-align: right;}
+.css_cargo_det_label {text-align: right;vertical-align: middle;}
+.css_cargo_det_line {height:0px;text-align: right;}
+.css_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_empresa_det_line {height:0px;text-align: right;}
+.css_data_admissao_det_label {text-align: right;vertical-align: middle;}
+.css_data_admissao_det_line {height:0px;text-align: right;}
+.css_end_comercial_det_label {text-align: right;vertical-align: middle;}
+.css_end_comercial_det_line {height:0px;text-align: right;}
+.css_end_comercial_nro_det_label {text-align: right;vertical-align: middle;}
+.css_end_comercial_nro_det_line {height:0px;text-align: right;}
+.css_end_comercial_cep_det_label {text-align: right;vertical-align: middle;}
+.css_end_comercial_cep_det_line {height:0px;text-align: right;}
+.css_bairro_comerc_det_label {text-align: right;vertical-align: middle;}
+.css_bairro_comerc_det_line {height:0px;text-align: right;}
+.css_cidade_comerc_det_label {text-align: right;vertical-align: middle;}
+.css_cidade_comerc_det_line {height:0px;text-align: right;}
+.css_uf_comerc_det_label {text-align: right;vertical-align: middle;}
+.css_uf_comerc_det_line {height:0px;text-align: right;}
+.css_compl_comerc_det_label {text-align: right;vertical-align: middle;}
+.css_compl_comerc_det_line {height:0px;text-align: right;}
+.css_tel_comerc_det_label {text-align: right;vertical-align: middle;}
+.css_tel_comerc_det_line {height:0px;text-align: right;}
+.css_ramal_det_label {text-align: right;vertical-align: middle;}
+.css_ramal_det_line {height:0px;text-align: right;}
+.css_val_patriominio_det_label {text-align: right;vertical-align: middle;}
+.css_val_patriominio_det_line {height:0px;text-align: right;}
+.css_created_at_det_label {text-align: right;vertical-align: middle;}
+.css_created_at_det_line {height:0px;text-align: right;}
+.css_updated_at_det_label {text-align: right;vertical-align: middle;}
+.css_updated_at_det_line {height:0px;text-align: right;}

@@ -1,0 +1,18 @@
+.css_id_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_id_grid_line {vertical-align: top;text-align: right;}
+.css_nome_completo_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_nome_completo_grid_line {vertical-align: top;text-align: right;}
+.css_email_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_email_grid_line {vertical-align: top;text-align: right;}
+.css_dt_nasc_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_dt_nasc_grid_line {vertical-align: top;text-align: right;}
+.css_nat_ocup_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_nat_ocup_grid_line {vertical-align: top;text-align: right;}
+.css_sexo_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_sexo_grid_line {vertical-align: top;text-align: right;}
+.css_nacionalidade_label {text-align:left;vertical-align:middle;font-weight:bold;}
+.css_nacionalidade_grid_line {vertical-align: top;text-align: right;}
+.css_operador_label {text-align:right;vertical-align:middle;font-weight:bold;}
+.css_operador_grid_line {vertical-align: top;text-align: right;}
+.css_created_at_label {text-align:center;vertical-align:middle;font-weight:bold;}
+.css_created_at_grid_line {vertical-align: top;text-align: center;}
